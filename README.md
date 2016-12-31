@@ -1,3 +1,3 @@
 # A-Song-of-Ice-and-Fire
 ## George R.R. Martin
-![image](A-Song-of-Ice-and-Fire/Images/cover.jpg)
+![image](https://github.com/laixl/A-Song-of-Ice-and-Fire/blob/master/Images/cover.jpg)
